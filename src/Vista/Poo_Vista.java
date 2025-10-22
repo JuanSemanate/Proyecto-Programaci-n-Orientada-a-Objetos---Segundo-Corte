@@ -1,5 +1,6 @@
 package Vista;
 
+
 import Modelo.Estudiante;
 import Modelo.Profesor;
 import java.util.ArrayList;
